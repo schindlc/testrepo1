@@ -6,5 +6,6 @@
 05 "Come Little Red Riding Hood.
 06 Here is a piece of cake and a bottle of wine.
 07 Take them to your grandmother.
+08 She is sick and weak, and they will do her well.
 10 Behave yourself on the way, and do not leave the path, or you might fall down and break the glass, and then there will be nothing for your sick grandmother."
 81 "As long as I live, I will never leave the path and run off into the woods by myself if mother tells me not to."
